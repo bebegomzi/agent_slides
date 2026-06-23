@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: npm run build -- --base /agent_slides/ --out dist
+      - run: npm run build -- --base ./ --out dist
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
