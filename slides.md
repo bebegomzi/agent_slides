@@ -5,6 +5,7 @@ info: 교직원 대상 AI 에이전트 실무 활용 연수
 class: text-center
 transition: slide-left
 mdc: true
+routerMode: hash
 fonts:
   sans: Noto Sans KR
   mono: IBM Plex Mono
