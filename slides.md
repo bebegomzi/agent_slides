@@ -85,18 +85,27 @@ layout: center
 <div class="mt-4 opacity-70">이후 '바이브 코딩'이라고 부른다는 걸 알게 됨</div>
 
 ---
-layout: image-right
-image: /gomzi.png
+layout: two-cols
 class: my-auto
 ---
 
 # 1. 모자이곰지
+
+<img src="/gomzi.png" class="w-40 mt-8 rounded-xl" />
+
+::right::
+
+<div class="h-full flex items-center justify-center pl-4">
+  <div class="text-sm opacity-40 border-2 border-dashed rounded-lg px-14 py-24 text-center">UI 캡처 이미지<br/>(예정)</div>
+</div>
 
 <!--
 디지털 선도학교 보고서 작성 필요.
 연말에 보고서 작성할 때 학생 얼굴 모자이크해서 보내주라고 하는데, 모자이크는 어떻게 하는데?
 학생 얼굴 안 나오게 찍거나, 포토샵으로 하세요. 근데 포토샵을 안 사주는데?
 -->
+
+<!-- 좌: 실행 아이콘(곰지) / 우: UI 캡처 자리. 이미지 여러 장 넘기기는 v-click 또는 캐러셀로 가능(아래 채팅 답변 참고). -->
 
 ---
 layout: center
