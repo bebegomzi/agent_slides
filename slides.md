@@ -8,8 +8,9 @@ routerMode: hash
 layout: two-cols
 class: my-auto
 fonts:
-  sans: Noto Sans KR
-  mono: IBM Plex Mono
+  sans: 'Pretendard Variable'
+  mono: 'Monoplex KR'
+  local: 'Pretendard Variable, Monoplex KR'
 ---
 
 # 강사 소개
