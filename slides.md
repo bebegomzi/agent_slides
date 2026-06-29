@@ -85,14 +85,23 @@ layout: center
 <div class="mt-4 opacity-70">이후 '바이브 코딩'이라고 부른다는 걸 알게 됨</div>
 
 ---
-layout: image-left
-image: /gomzi.png
+layout: two-cols
 class: my-auto
 ---
 
 # 1. 모자이곰지
 
-<div class="mt-8 text-sm opacity-40 border-2 border-dashed rounded-lg px-10 py-20 text-center">UI 캡처 이미지 (예정)</div>
+<div class="mt-4 opacity-80">보고서 쓸 때, 학생 초상권을 지켜달래서 만들었습니다.</div>
+
+<img src="./assets/gomzi.png" class="w-28 mt-8 rounded-xl" />
+
+```text
+github.com/bebegomzi/mozaigomzi
+```
+
+::right::
+
+<img src="./assets/mozaigom_ui.png" class="rounded-lg shadow-md mt-2 max-h-100 ml-4" />
 
 <!--
 디지털 선도학교 보고서 작성 필요.
@@ -100,7 +109,27 @@ class: my-auto
 학생 얼굴 안 나오게 찍거나, 포토샵으로 하세요. 근데 포토샵을 안 사주는데?
 -->
 
-<!-- 좌: 실행 아이콘(곰지, layout image-left). 우: 제목 + UI 캡처 자리. 우측에 실제 캡처 이미지를 넣는 방식은 채팅 답변 참고. -->
+---
+class: text-center
+---
+
+# 얼굴만 가리거나, 얼굴만 남기거나
+
+<div class="flex items-end justify-center gap-6 mt-10">
+  <figure class="m-0">
+    <img src="./assets/mozaigom_orig.jpg" class="h-64 rounded-lg shadow" />
+    <figcaption class="text-sm opacity-60 mt-3">원본</figcaption>
+  </figure>
+  <div class="text-4xl opacity-30 pb-12">→</div>
+  <figure class="m-0">
+    <img src="./assets/mozaigom_mosaic.jpg" class="h-64 rounded-lg shadow" />
+    <figcaption class="text-sm opacity-60 mt-3">얼굴 모자이크</figcaption>
+  </figure>
+  <figure class="m-0">
+    <img src="./assets/mozaigom_crop.jpg" class="h-64 rounded-lg shadow" />
+    <figcaption class="text-sm opacity-60 mt-3">얼굴만 크롭</figcaption>
+  </figure>
+</div>
 
 ---
 layout: center
