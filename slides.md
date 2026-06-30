@@ -6,7 +6,7 @@ transition: slide-left
 mdc: true
 routerMode: hash
 layout: center
-class: text-center
+class: text-center intro
 fonts:
   sans: 'Pretendard Variable'
   mono: 'Monoplex KR'
@@ -15,9 +15,7 @@ fonts:
 
 # 강사 소개
 
-<div class="mt-8 text-xl opacity-70">세종 반곡고등학교 교사</div>
-
-<div class="text-6xl font-medium mt-3">정현민</div>
+<div class="mt-6 text-2xl opacity-80">세종 반곡고등학교 교사 정현민</div>
 
 ---
 layout: center
