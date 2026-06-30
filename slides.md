@@ -667,151 +667,79 @@ layout: section
 
 # 에이전틱 실습
 
----
-layout: center
----
-
-# 세션 0 — 준비
-
-설치 + 구글 계정 로그인
-
-<!--
-agy (Antigravity CLI) 설치 명령은 리허설 때 확정. 무료 계정 하루 약 20회 — 신중히.
--->
 
 ---
 layout: center
 ---
 
-# 세션 1 — 실전 (핵심)
+# 세션 1 · 파워셸 열기
 
-이렇게 말 걸어 보세요
+시작 단추 → <code>powershell</code> 입력 → Enter
 
-<div class="mt-4 text-xl">"다운로드 폴더를 종류별로 정리해줘"</div>
-
-<!--
-실행 전에 한 번 물어보세요 — "정리 전에 뭘 할 건지 먼저 알려줘"
--->
-
----
-layout: center
-class: text-left
----
-
-# 세션 2 — 안전장치
-
-실행 전에 확인하는 습관 / 되돌리는 법 / 중요한 파일은 백업 먼저
-
----
-layout: section
----
-
-# AI에게 일 시키는 법, 4단계
-
-<!--
-출처: 요즘IT「제가 정말 루프 엔지니어링까지 알아야 할까요」.
-[이미지 예정] 줌아웃 다이어그램 (프롬프트 → 컨텍스트 → 하네스 → 루프)
--->
+<div class="font-mono text-sm text-left rounded-lg p-4 mx-auto mt-6" style="background:#012456;color:#e8e8e8;max-width:720px;min-height:150px;">
+<div class="opacity-60">Windows PowerShell</div>
+<div class="opacity-60">Copyright (C) Microsoft Corporation. All rights reserved.</div>
+<div class="mt-3">PS C:\Users\선생님&gt; ▋</div>
+</div>
 
 ---
 layout: center
 ---
 
-# 1단계 · 프롬프트 엔지니어링
+# 세션 2 · 설치 명령 한 줄
 
-말 거는 법
+```text
+irm https://antigravity.google/cli/install.ps1 | iex
+```
 
-few-shot · CoT · "step by step"
+<div class="font-mono text-xs text-left rounded-lg p-4 mx-auto mt-4" style="background:#012456;color:#e8e8e8;max-width:720px;">
+<div>PS C:\Users\선생님&gt; <span style="color:#ffe680">irm https://antigravity.google/cli/install.ps1 | iex</span></div>
+<div class="opacity-70 mt-1">Installing Antigravity CLI...</div>
+</div>
 
-<div class="mt-4 text-sm opacity-50">= 기존 AI 연수가 머문 단계</div>
-
-<!--
-어떻게 질문할까를 알려주던 연수들
--->
-
----
-layout: center
----
-
-# 2단계 · 컨텍스트 엔지니어링
-
-맥락 관리
-
-사용자 지침 · 메모리 · 검색
-
-<div class="mt-4 text-sm opacity-50">= 오늘 ③에서 본 것 — '나를 학습시키기'</div>
+<div class="mt-3 opacity-60 text-sm">붙여넣기는 마우스 오른쪽 클릭</div>
 
 ---
 layout: center
 ---
 
-# 3단계 · 하네스 엔지니어링
+# 세션 3 · 로그인
 
-모델에 고삐 (harness)
+설치되면 브라우저가 자동으로 열립니다
 
-에이전트 환경 · 도구 · AGENTS.md
-
-<div class="mt-4 text-sm opacity-50">= 오늘의 핵심 · 로컬 PC 에이전트</div>
+<div class="mt-4 text-lg">→ 구글 계정 선택 → 로그인</div>
 
 ---
 layout: center
 ---
 
-# 4단계 · 루프 엔지니어링
+# 세션 4 · 파워셸 껐다 켜기
 
-목표만 → 알아서 반복
+창을 닫고, 다시 열기
 
-자동화 · 스킬 · 서브에이전트
-
-<div class="mt-4 text-sm opacity-50">= 다음 단계 (오늘은 맛보기까지만)</div>
+<div class="mt-4 opacity-60 text-sm">설치 내용을 반영하려면 한 번 재시작</div>
 
 ---
 layout: center
 ---
 
-# 세대교체가 아닙니다
+# 세션 5 · 작업할 폴더에서 열기
 
-같은 문제 · 더 큰 단위로 (줌아웃)
+폴더 안 빈 곳 **마우스 오른쪽 클릭** → "터미널에서 열기"
 
-프롬프트 → 맥락 → 구조 → 루프
-
-<div class="mt-4 text-sm opacity-40">[이미지 예정] 슬라이더 (계단 아님)</div>
-
----
-layout: center
-class: text-left
----
-
-# 루프, 저는 이미 써봤습니다
-
-성취평가 채점 파이프라인
-
-결정론 ↔ LLM 분리 · 원자값 분해 · 다중채점 합의 · 분열만 상위 모델 · 교사 최종
-
-<div class="mt-4 text-sm opacity-40">[이미지 예정] 채점 파이프라인 흐름도 · 단, 평가는 중요 영역이라 100% 루프는 아님(교사 최종 게이트)</div>
-
-<!--
-실제 적용 사례 구두 설명
--->
+<div class="mt-4 opacity-60 text-sm">cd 명령을 몰라도 됩니다</div>
 
 ---
 layout: center
 ---
 
-# 결국 남는 건, taste
+# 세션 6 · 실행!
 
-안목 · 판단 · 검증
+```text
+agy
+```
 
-<div class="mt-4 text-sm opacity-50">채점 못 하는 것 = 모델이 못 배움 = 사람 몫</div>
-
----
-layout: center
----
-
-# 왜 국어 교과가 AI 교육을 주도해야 할까요?
-
-방금 세 시간이 그 답이었습니다 — AI는 결국 '언어'로 부리는 것이니까요.
-
-<!--
-여러분의 목록엔, 무엇이 적혔나요?
--->
+<div class="font-mono text-sm text-left rounded-lg p-4 mx-auto mt-4" style="background:#012456;color:#e8e8e8;max-width:720px;">
+<div>PS C:\수업자료&gt; <span style="color:#ffe680">agy</span></div>
+<div class="opacity-70 mt-1">Antigravity CLI 시작...</div>
+</div>
