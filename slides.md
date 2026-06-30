@@ -777,9 +777,19 @@ layout: center
 
 # 종합하면 — LLM 위키
 
-<div class="mt-3 opacity-70">안드레이 카파시(Andrej Karpathy)의 개념</div>
+<div class="opacity-60 text-sm">안드레이 카파시 (Andrej Karpathy)</div>
 
-<!-- 참고: 옵시디언 [[LLM 위키]] — 카파시 비유(LLM=새 OS/CPU, 컨텍스트=RAM 등). 세부 보강 예정 -->
+<div class="mt-3 text-lg">RAG는 매번 처음부터 다시 — <strong>위키는 복리로 쌓인다</strong></div>
+
+<div class="flex flex-col items-center gap-1 mt-5 text-sm">
+  <div class="px-5 py-2 rounded-lg bg-gray-100 dark:bg-gray-700">원본 자료 <span class="opacity-50">· 불변(진실의 원천)</span></div>
+  <div class="opacity-40">↓ LLM이 읽고 추출·통합</div>
+  <div class="px-6 py-2 rounded-lg border-2 font-medium" style="border-color:#0d9488;">위키 <span class="opacity-60 font-normal">· LLM이 소유 · 복리 축적</span></div>
+  <div class="opacity-40">↑ 규칙</div>
+  <div class="px-5 py-2 rounded-lg bg-gray-100 dark:bg-gray-700">스키마 <span class="opacity-50">· AGENTS.md / CLAUDE.md</span></div>
+</div>
+
+<div class="mt-5 opacity-60 text-sm">Obsidian = IDE · LLM = 프로그래머 · 위키 = 코드베이스</div>
 
 ---
 layout: section
