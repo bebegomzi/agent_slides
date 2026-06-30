@@ -529,6 +529,40 @@ layout: center
 layout: center
 ---
 
+# 해결방안 3
+
+<div class="text-base opacity-50">문제점 3 (컨텍스트 한계·환각) →</div>
+
+## 대화를 압축한다
+
+```text
+/compact
+```
+
+<div class="mt-4 text-lg opacity-70">긴 대화를 요약해 컨텍스트를 비운다</div>
+
+<div class="mt-3 opacity-60">그런데 — 컨텍스트마저 압축돼 버린다 (→ 해결방안 4)</div>
+
+---
+layout: center
+---
+
+# 해결방안 4
+
+<div class="text-base opacity-50">문제점 4 (메모리 없음) →</div>
+
+## 개인 인텔리전스 — 메모리
+
+<div class="flex justify-center gap-4 mt-4">
+  <img src="./assets/mem1.jpg" class="max-h-72 rounded-lg shadow" />
+  <img src="./assets/mem2.jpg" class="max-h-72 rounded-lg shadow" />
+  <img src="./assets/mem3.jpg" class="max-h-72 rounded-lg shadow" />
+</div>
+
+---
+layout: center
+---
+
 # "사진 찍어서 보내주셔도 돼요"
 
 → 비전 모델 (LLM과는 별개)
