@@ -444,7 +444,11 @@ class: text-center
 
 ## "학생 한 명마다, 똑같은 질문을 반복?"
 
-<div class="mt-8 mx-auto border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center text-base opacity-40" style="width:78%; height:340px;">이미지 자리 (추가 예정)</div>
+<div class="relative max-w-2xl mx-auto mt-3">
+  <img src="./assets/problem2.png" class="w-full" />
+  <div class="absolute text-xs leading-tight text-center" style="top:7%; left:1.5%; width:31%;">고객님, 문제점 서술해 드렸습니다. 다음 198번째 문제점을 설명해 주세요.</div>
+  <div class="absolute text-sm leading-tight text-center" style="top:4%; right:2.5%; width:24%;">이짓거리를 모든 학생들에게 하라고?</div>
+</div>
 
 ---
 layout: center
