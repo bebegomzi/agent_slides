@@ -417,7 +417,7 @@ class: text-center
 </div>
 
 <div class="relative max-w-4xl mx-auto text-2xl leading-relaxed">
-"넌 <strong>30년 경력의 배관공</strong>이야. 나는 배관공 기술에 대해서는 <strong>아무것도 아는 것이 없어</strong>. 그런데 우리 집에 지금 <strong>물이 새고 있어</strong>. 그래서 나는 <strong>천장의 신이 보고 감탄할 수준</strong>으로 천장을 수리해야 해. 천장 수리 방법을 <strong>750바이트로</strong> 생성해봐."
+"넌 <strong>30년 경력의 배관공</strong>이야. 나는 배관공 기술에 대해서는 <strong>아무것도 아는 것이 없어</strong>. 그런데 지금 <strong>부엌 천장에 물 얼룩이 지고, 크기는 지름 약 50cm가량이며, 최근 3일간 계속 악화되고 있어</strong>. 그래서 나는 <strong>천장의 신이 보고 감탄할 수준</strong>으로 천장을 수리해야 해. 천장 수리 방법을 <strong>750바이트로</strong> 생성해봐."
 </div>
 
 ---
