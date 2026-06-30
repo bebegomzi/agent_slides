@@ -92,13 +92,13 @@ class: my-auto
 
 ## 모자이곰지
 
-<div class="mt-3 opacity-80">보고서 쓸 때, 학생 초상권을 지켜달래서 만들었습니다.</div>
-
-<img src="./assets/gomzi.png" class="w-24 mt-6 rounded-xl" />
-
 ```text
 github.com/bebegomzi/mozaigomzi
 ```
+
+<div class="mt-4 opacity-80">보고서 쓸 때, 학생 초상권을 지켜달래서 만들었습니다.</div>
+
+<img src="./assets/gomzi.png" class="w-24 mt-5 rounded-xl" />
 
 ::right::
 
@@ -166,16 +166,16 @@ layout: center
 
 ## 교육과정 파서
 
-교육과정을 도대체 어떻게 읽는 거에요?
-
-<div class="flex justify-center gap-6 mt-6">
-  <figure class="m-0"><img src="./assets/curri_excel.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">기존 엑셀</figcaption></figure>
-  <figure class="m-0"><img src="./assets/curri_web.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">파싱·설명 웹</figcaption></figure>
-</div>
-
 ```text
 bebegomzi.github.io/curriculum_parser
 ```
+
+교육과정을 도대체 어떻게 읽는 거에요?
+
+<div class="flex justify-center gap-6 mt-4">
+  <figure class="m-0"><img src="./assets/curri_excel.png" class="h-48 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">기존 엑셀</figcaption></figure>
+  <figure class="m-0"><img src="./assets/curri_web.png" class="h-48 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">파싱·설명 웹</figcaption></figure>
+</div>
 
 ---
 layout: center

@@ -45,3 +45,13 @@
 /* 강사 소개: 타이틀도 중앙 정렬(상단 고정 제외) */
 .slidev-layout.intro h1 { position: static; padding: 0; }
 .slidev-layout.intro { padding-top: 0; }
+
+/* 코드블럭: 강연용으로 크게 + 강조 (주소·명령어가 뒷자리서도 보이게) */
+.slidev-layout pre {
+  font-size: 1.6rem !important;
+  line-height: 1.6 !important;
+  padding: 1rem 1.5rem !important;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(13, 148, 136, 0.5);
+}
+.slidev-layout pre code { font-size: inherit !important; }
