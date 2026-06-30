@@ -13,3 +13,11 @@
   font-weight: 700;
   font-display: swap;
 }
+
+/* ── 색감: 검정 일변도 탈피, 틸(teal) 포인트 ── */
+.slidev-layout h1 { color: #134e4a; }
+.slidev-layout h2 { color: #0f766e; }
+.slidev-layout strong { color: #0d9488; font-weight: 500; }
+.slidev-layout { color: #1e293b; }
+.year { color: #0d9488; font-weight: 600; }
+.slidev-layout.slidev-page--section h1 { color: #0d9488; }
