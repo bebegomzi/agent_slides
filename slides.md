@@ -475,7 +475,18 @@ class: text-center
 
 ## "다음 학기에 보니, 내가 누군지도 모름"
 
-<div class="mt-12 text-xl opacity-70">기억이 안 남는다 — 매번 처음부터</div>
+<div class="flex justify-center items-start gap-12 mt-4">
+  <div>
+    <img src="./assets/call_woman.png" class="max-h-44 rounded-lg mx-auto" />
+    <div class="mt-2 text-lg font-medium">"전데요!"</div>
+  </div>
+  <div>
+    <img src="./assets/plumber.png" class="max-h-44 rounded-lg mx-auto" />
+    <div class="mt-2 text-base opacity-70">"어떤 저인데요?"</div>
+  </div>
+</div>
+
+<div class="mt-5 text-lg opacity-70">기억이 안 남는다 — 매번 처음부터</div>
 
 ---
 layout: center
