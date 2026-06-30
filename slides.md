@@ -589,6 +589,8 @@ layout: center
 class: text-center
 ---
 
+# 컨텍스트 엔지니어링이 프롬프트 엔지니어링과 뭐가 다른가?
+
 <div class="flex justify-center items-start gap-12 mt-2">
   <div>
     <img src="./assets/call_woman.png" class="max-h-56 rounded-lg mx-auto" />
