@@ -5,8 +5,8 @@ info: 교직원 대상 AI 에이전트 실무 활용 연수
 transition: slide-left
 mdc: true
 routerMode: hash
-layout: two-cols
-class: my-auto
+layout: center
+class: text-center
 fonts:
   sans: 'Pretendard Variable'
   mono: 'Monoplex KR'
@@ -15,21 +15,9 @@ fonts:
 
 # 강사 소개
 
-<div class="mt-8 text-lg opacity-70">세종 반곡고등학교 교사</div>
+<div class="mt-8 text-xl opacity-70">세종 반곡고등학교 교사</div>
 
-<div class="text-4xl font-medium mt-2">정현민</div>
-
-::right::
-
-<div class="pt-28 pl-6 opacity-80 leading-loose">
-
-전 융합정보부장
-
-전 교육과정부장
-
-현 1학년 8반 담임 교사
-
-</div>
+<div class="text-6xl font-medium mt-3">정현민</div>
 
 ---
 layout: center
