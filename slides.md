@@ -142,6 +142,10 @@ layout: center
 
 ## School_pdf
 
+```text
+github.com/bebegomzi/school_pdf/releases
+```
+
 개인 정보 보호를 위해, 민감 문서에는 암호를 걸어 주세요.
 
 <div class="flex justify-center gap-6 mt-6">
