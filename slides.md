@@ -453,6 +453,17 @@ class: text-center
 
 ---
 layout: center
+class: text-center
+---
+
+# 문제점 3
+
+## "햇빛이 선명하게 나뭇잎을 핥고 있었다"
+
+<div class="mt-12 text-xl opacity-70">상황 묘사하다가 노벨 문학상 타겠다</div>
+
+---
+layout: center
 ---
 
 # "사진 찍어서 보내주셔도 돼요"
