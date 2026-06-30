@@ -505,11 +505,13 @@ class: my-auto
 
 <div class="pl-6 mt-10 space-y-3">
   <div class="ml-auto w-fit max-w-xs bg-gray-100 dark:bg-gray-700 rounded-2xl px-4 py-2 text-sm">사진 속 이 물체, 도대체 왜 이렇게 매일 귀여운 걸까?</div>
-  <div class="w-fit max-w-sm border rounded-2xl px-4 py-3 text-sm leading-relaxed">
+  <div class="w-fit max-w-sm border rounded-2xl px-4 py-3 text-xs leading-relaxed">
+    제공해주신 32156.jpg 사진을 보니, 매일 귀여울 수밖에 없는 완벽한 조건들을 갖추고 있네요!<br><br>
     🐾 치명적인 귀여움의 이유<br>
-    ① 100% 무방비 상태<br>
-    ② 솜사탕 같은 털<br>
-    ③ 앙증맞은 까만 젤리
+    · <strong>100% 무방비 상태</strong>: 배를 훤히 드러내고 대자로 뻗어 자는 모습은…<br>
+    · <strong>솜사탕 같은 털</strong>: 바닥에 몽글몽글하게 퍼져있는…<br>
+    · <strong>앙증맞은 까만 젤리</strong>: 공중을 향해 톡 튀어나온…<br>
+    …
   </div>
 </div>
 
@@ -521,7 +523,7 @@ layout: center
 
 <div class="text-base opacity-50">문제점 2 (똑같은 질문 반복) →</div>
 
-## 엑셀 기반 반복 작업 (외부 연수)
+## 엑셀 기반 반복 작업
 
 <img src="./assets/training_excel.jpg" class="max-h-96 mx-auto mt-3 rounded-lg shadow" />
 
