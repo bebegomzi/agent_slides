@@ -407,24 +407,6 @@ LLM의 원리(상대의 한계)를 알면, 더 잘 시켜먹을 수 있습니다
 ② 나에 대한 정보 — 나는 누구이고, 어느 수준으로 설명을 원하는지
 
 ---
-layout: two-cols
-class: my-auto
----
-
-# 또 물이 새요
-
-<img src="./assets/call_woman.png" class="max-h-64 rounded-lg" />
-
-<div class="mt-3 text-xl font-medium">"전데요!"</div>
-
-::right::
-
-<img src="./assets/plumber.png" class="max-h-64 rounded-lg ml-4" />
-
-<div class="mt-3 text-lg opacity-70 ml-4">"어떤 저인데요?"</div>
-<div class="text-lg opacity-70 ml-4">"왜 날 몰라주는 거야!"</div>
-
----
 layout: center
 class: text-center
 ---
@@ -448,6 +430,26 @@ class: text-center
 ## "학생 한 명마다 질문을 반복?"
 
 <div class="mt-8 mx-auto border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center text-base opacity-40" style="width:78%; height:340px;">이미지 자리 (추가 예정)</div>
+
+---
+layout: center
+class: text-center
+---
+
+# 문제점 2
+
+## "니가 배관공이라는 걸 매번 설명해줘야 하냐?"
+
+<div class="flex justify-center items-start gap-12 mt-6">
+  <div>
+    <img src="./assets/call_woman.png" class="max-h-52 rounded-lg mx-auto" />
+    <div class="mt-2 text-lg font-medium">"전데요!"</div>
+  </div>
+  <div>
+    <img src="./assets/plumber.png" class="max-h-52 rounded-lg mx-auto" />
+    <div class="mt-2 text-base opacity-70">"어떤 저인데요?" · "왜 날 몰라주는 거야!"</div>
+  </div>
+</div>
 
 ---
 layout: center
