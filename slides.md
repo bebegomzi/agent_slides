@@ -744,3 +744,102 @@ agy
 <div>PS C:\수업자료&gt; <span style="color:#ffe680">agy</span></div>
 <div class="opacity-70 mt-1">Antigravity CLI 시작...</div>
 </div>
+
+---
+layout: section
+---
+
+# 무엇을 할 수 있고, 무엇을 할 수 없는가?
+
+---
+layout: center
+---
+
+# 스킬 (Skill)
+
+반복하는 일을 '기술'로 저장해 두기
+
+<div class="mt-4 opacity-50 text-sm">한 번 가르치면, 다음엔 알아서</div>
+
+---
+layout: center
+---
+
+# 도구 · MCP
+
+누군가 이미 만들어 둔 <strong>tool</strong> · <strong>MCP</strong>를 연결
+
+<div class="mt-4 opacity-50 text-sm">내가 안 만들어도, 가져다 쓴다</div>
+
+---
+layout: center
+---
+
+# 종합하면 — LLM 위키
+
+<div class="mt-3 opacity-70">안드레이 카파시(Andrej Karpathy)의 개념</div>
+
+<!-- 참고: 옵시디언 [[LLM 위키]] — 카파시 비유(LLM=새 OS/CPU, 컨텍스트=RAM 등). 세부 보강 예정 -->
+
+---
+layout: section
+---
+
+# 5단계: 루프 엔지니어링
+
+---
+layout: center
+---
+
+# 실제 사례 — 학생 수행평가 파이프라인
+
+<div class="flex items-center justify-center gap-2 mt-8 text-sm">
+  <div class="px-3 py-3 rounded-lg bg-gray-100 dark:bg-gray-700">① 계획<br><span class="opacity-50 text-xs">성취기준→루브릭</span></div>
+  <span class="opacity-40">→</span>
+  <div class="px-3 py-3 rounded-lg bg-gray-100 dark:bg-gray-700">② 실시<br><span class="opacity-50 text-xs">구조화 수집</span></div>
+  <span class="opacity-40">→</span>
+  <div class="px-3 py-3 rounded-lg bg-gray-100 dark:bg-gray-700">③ 관찰<br><span class="opacity-50 text-xs">강·약점</span></div>
+  <span class="opacity-40">→</span>
+  <div class="px-3 py-3 rounded-lg bg-gray-100 dark:bg-gray-700">④ 평가<br><span class="opacity-50 text-xs">다중채점 합의</span></div>
+  <span class="opacity-40">→</span>
+  <div class="px-3 py-3 rounded-lg bg-gray-100 dark:bg-gray-700">⑤ 기록<br><span class="opacity-50 text-xs">생기부 후보</span></div>
+</div>
+
+<div class="mt-8 opacity-60">오늘 다루지는 않습니다 — "이런 것도 가능하다"</div>
+
+<!-- 참고: 옵시디언 [[지식/성취기준 기반 국어과 평가 파이프라인 설계]]. 단, 평가는 100% 루프 아님(교사 최종) -->
+
+---
+layout: section
+---
+
+# 끝내며
+
+---
+layout: center
+class: text-left
+---
+
+# 몇 가지 질문
+
+<!-- 질문 텍스트는 정현민이 채움 (3가지 정도) -->
+
+---
+layout: center
+---
+
+# 앤트로픽, 두 남매
+
+<div class="mt-3 opacity-70">인공지능은 인문학적 사유 위에 서 있다</div>
+
+<!-- Dario & Daniela Amodei — 인문학적 배경. 구두 설명 -->
+
+---
+layout: center
+---
+
+# 인공지능을 바라보는 자세
+
+<div class="mt-4 text-xl">일자리를 뺏긴다? — 아니요.</div>
+
+<div class="mt-3 text-2xl">당신은 <strong>사장</strong>, AI는 <strong>직원</strong></div>
