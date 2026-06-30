@@ -614,6 +614,23 @@ layout: center
 
 ---
 layout: center
+class: text-center
+---
+
+<div class="relative mx-auto mt-2" style="max-width:560px;">
+  <img src="./assets/agent_home.png" class="w-full" />
+  <div class="absolute text-xs leading-tight text-center" style="top:5%; left:1%; width:25%;">50cm의 얼룩이 선명하게 천장을 핥고 있었으며…</div>
+  <div class="absolute text-xs leading-tight text-center" style="top:5%; right:1%; width:27%;">진정하시고요. 제가 직접 보고 직접 고치면 돼요.</div>
+</div>
+
+---
+layout: section
+---
+
+# 3단계: 하네스 엔지니어링
+
+---
+layout: center
 ---
 
 # "AI가 코딩 뚝딱!" 연수, 저도 가봤어요
