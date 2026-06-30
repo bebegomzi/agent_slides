@@ -459,18 +459,12 @@ class: text-center
 
 ## "게다가, 200번이 다 제각각"
 
-<div class="flex justify-center items-start gap-12 mt-4">
-  <div>
-    <img src="./assets/call_woman.png" class="max-h-44 rounded-lg mx-auto" />
-    <div class="mt-2 text-lg font-medium">"전데요!"</div>
-  </div>
-  <div>
-    <img src="./assets/plumber.png" class="max-h-44 rounded-lg mx-auto" />
-    <div class="mt-2 text-base opacity-70">"어떤 저인데요?"</div>
-  </div>
+<div class="relative max-w-2xl mx-auto mt-3">
+  <img src="./assets/problem3.png" class="w-full" />
+  <div class="absolute text-sm leading-snug text-center" style="top:9%; left:3%; width:40%;">고객님의 천장을 보아했을 때 고딕 양식으로 된 첨탑을 추가하면 좋을 것 같으며 세종대왕의 맥북 프로 투척사건이…</div>
 </div>
 
-<div class="mt-6 text-lg opacity-70">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
+<div class="mt-4 text-lg opacity-70">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
 
 ---
 layout: center
