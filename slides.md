@@ -429,7 +429,11 @@ class: text-center
 
 ## "햇빛이 선명하게 나뭇잎을 핥고 있었다"
 
-<div class="mt-12 text-xl opacity-70">상황 묘사하다가 노벨 문학상 타겠다</div>
+<blockquote class="max-w-3xl mx-auto mt-6 text-left text-sm leading-relaxed opacity-90">
+오늘도 또 우리 수탉이 막 쫓기었다. 깜짝 놀라서 고개를 돌려보니 아니나다르랴, 두 놈이 또 얼리었다. 점순네 수탉이 덩저리 작은 우리 수탉을 함부로 해내는 것이다. 그것도 그냥 해내는 것이 아니라 푸드득하고 면두를 쪼고 물러섰다가 좀 사이를 두고 푸드득하고 모가지를 쪼았다. 이렇게 멋을 부려 가며 여지없이 닦아 놓는다. 그러면 이 못생긴 것은 쪼일 적마다 주둥이로 땅을 받으며 그 비명이 킥, 킥, 할 뿐이다. 물론 미처 아물지도 않은 면두를 또 쪼이며 붉은 선혈은 뚝뚝 떨어진다. 이때 점순네 수탉의 행동 특성에 대하여 <strong>1500바이트로 서술해 줘.</strong>
+</blockquote>
+
+<div class="mt-5 text-base opacity-60">상황 묘사하다가 노벨 문학상 타겠다</div>
 
 ---
 layout: center
