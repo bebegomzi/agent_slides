@@ -604,13 +604,10 @@ class: text-center
 
 ---
 layout: center
+class: text-center intro
 ---
 
 # 그런데, 이 작업자가 집에 직접 온다면?
-
-<div class="mt-6 text-2xl">= 에이전트</div>
-
-<div class="mt-4 opacity-70">전화로 답만 주는 게 아니라, 내 파일을 직접 만지고 고쳐줍니다</div>
 
 ---
 layout: center
@@ -621,6 +618,20 @@ class: text-center
   <img src="./assets/agent_home.png" class="w-full" />
   <div class="absolute text-xs leading-tight text-center" style="top:5%; left:1%; width:25%;">50cm의 얼룩이 선명하게 천장을 핥고 있었으며…</div>
   <div class="absolute text-xs leading-tight text-center" style="top:5%; right:1%; width:27%;">진정하시고요. 제가 직접 보고 직접 고치면 돼요.</div>
+</div>
+
+---
+layout: center
+class: text-center
+---
+
+# AI 코딩 에이전트
+
+<div class="relative mx-auto mt-6" style="width:700px; height:330px;">
+  <img src="./assets/tool_antigravity.jpg" class="absolute rounded-lg shadow-xl" style="width:44%; left:2%; top:8%; transform:rotate(-4deg);" />
+  <img src="./assets/tool_cowork.jpg" class="absolute rounded-lg shadow-xl" style="width:44%; right:2%; top:0; transform:rotate(3deg);" />
+  <img src="./assets/tool_cursor.png" class="absolute rounded-lg shadow-xl" style="width:30%; left:22%; bottom:0; transform:rotate(2deg);" />
+  <img src="./assets/tool_codex.jpg" class="absolute rounded-lg shadow-xl" style="width:30%; right:18%; bottom:4%; transform:rotate(-3deg);" />
 </div>
 
 ---
