@@ -27,7 +27,10 @@ layout: center
 
 (가칭)창의진로교육원(현 세종진로교육원) 전시체험공간 설계
 
-<div class="mt-6 text-sm opacity-40">[이미지 예정] 창의진로교육원 스케치업 모델링 ↔ 현재 구축 모습 비교</div>
+<div class="flex justify-center gap-8 mt-8">
+  <figure class="m-0"><img src="./assets/hist2021_model.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">중기재정투자심사용 모델링</figcaption></figure>
+  <figure class="m-0"><img src="./assets/hist2021_now.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">현재</figcaption></figure>
+</div>
 
 <!--
 원래 공학적인 부분에 관심 많음.
@@ -53,33 +56,30 @@ layout: center
 
 # 주요 이력
 
+파견 복귀 후 '문과도 할 수 있는 코딩' 방과후학교 개설
+
 ## <span class="year">2023</span> · 반곡고등학교 정보부장
 
 <!--
+이후 '바이브 코딩'이라고 부른다는 걸 알게 됨.
 파견 복귀 후, 보고서 좀 잘 쓴다면서?라는 소문이 나서 간택됐음. 담임 교사가 하고 싶었는데, 정보부장으로 강제 배정되었고, 디지털 선도학교를 2년 동안 이끌었음.
-이 시기에는 아직 교사들에게 ChatGPT의 존재가 알려지지 않았던 걸로 기억. 그래서 생활기록부 작성 초안을 잡을 때 혼자 잘 써먹었고, 2024년 초입 정도가 되니까 연수가 생겨나기 시작했음.
+이 시기에는 아직 교사들에게 ChatGPT의 존재가 알려지지 않았던 걸로 기억. 생활기록부 작성 초안을 잡을 때 혼자 잘 써먹었고, 2024년 초입 정도가 되니까 연수가 생겨나기 시작했음.
 -->
-
----
-layout: center
----
-
-# 주요 이력
-
-파견 복귀 후 '문과도 할 수 있는 코딩' 방과후학교
-
-<div class="mt-4 opacity-70">이후 '바이브 코딩'이라고 부른다는 걸 알게 됨</div>
 
 ---
 layout: two-cols
 class: my-auto
 ---
 
-# 1. 모자이곰지
+# 주요 이력
 
-<div class="mt-4 opacity-80">보고서 쓸 때, 학생 초상권을 지켜달래서 만들었습니다.</div>
+<div class="text-lg opacity-70 mt-1"><span class="year">2023</span> · 반곡고등학교 정보부장</div>
 
-<img src="./assets/gomzi.png" class="w-28 mt-8 rounded-xl" />
+## 모자이곰지
+
+<div class="mt-3 opacity-80">보고서 쓸 때, 학생 초상권을 지켜달래서 만들었습니다.</div>
+
+<img src="./assets/gomzi.png" class="w-24 mt-6 rounded-xl" />
 
 ```text
 github.com/bebegomzi/mozaigomzi
@@ -121,46 +121,82 @@ class: text-center
 layout: center
 ---
 
-# 3. School_pdf
+# 주요 이력
+
+<div class="text-lg opacity-70"><span class="year">2024</span> · 반곡고등학교 정보부장</div>
+
+## School_pdf
+
+개인 정보 보호를 위해, 민감 문서에는 암호를 걸어 주세요.
+
+<div class="flex justify-center gap-6 mt-6">
+  <figure class="m-0"><img src="./assets/pdf_main.png" class="h-56 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">초기 화면</figcaption></figure>
+  <figure class="m-0"><img src="./assets/pdf_pw.png" class="h-56 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">암호 걸기</figcaption></figure>
+</div>
 
 <!--
 세종은 개인정보 첨부파일을 암호를 걸어서 업로드하게 하고 있음.
-hwp, 엑셀도 번거로운데, 문제는 PDF 파일. 암호를 걸고 해제할 수 있는 프로그램을 보급을 안 해줬음. 암호 걸겠다고 알PDF 설치하는 건 광고 때문에 싫고, 기본앱인 edge나 chrome은 암호가 안 걸림.
-한PDF로 가능하기는 한데, 바로 거는 게 아니고 "다른 이름으로 저장"해서 암호 걸고, 기존 파일 삭제하고...
-~라는 내용을 교무실에 다른 선생님이 하고 있길래, 30분 동안 만들어서 보내줌.
+hwp, 엑셀도 번거로운데, 문제는 PDF 파일. 암호를 걸고 해제할 수 있는 프로그램을 보급을 안 해줬음. 기본앱인 edge나 chrome은 암호가 안 걸림.
+한PDF로 가능하기는 한데, "다른 이름으로 저장"해서 암호 걸고, 기존 파일 삭제하고...
+교무실 다른 선생님이 하고 있길래, 30분 동안 만들어서 보내줌.
 -->
 
 ---
 layout: center
 ---
 
-# 4. 성취평가 웹앱
+# 주요 이력
 
-<div class="mt-6 text-sm opacity-50">https://bebegomzi-achievement-analysis.hf.space/</div>
+<div class="text-lg opacity-70"><span class="year">2025</span> · 반곡고등학교 교육과정부장</div>
 
-<div class="mt-2 text-sm opacity-40">[메모] 평가 분석·환류 보고서·학기말 시뮬레이터</div>
+## 교육과정 파서
+
+교육과정을 도대체 어떻게 읽는 거에요?
+
+<div class="flex justify-center gap-6 mt-6">
+  <figure class="m-0"><img src="./assets/curri_excel.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">기존 엑셀</figcaption></figure>
+  <figure class="m-0"><img src="./assets/curri_web.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">파싱·설명 웹</figcaption></figure>
+</div>
+
+```text
+bebegomzi.github.io/curriculum_parser
+```
 
 ---
-layout: image-right
-image: /curriculum_parser.png
-class: my-auto
+layout: center
+class: text-left
 ---
 
-# 5. 교육과정 파서
+# 주요 이력
 
-<div class="mt-6 text-sm opacity-50">https://bebegomzi.github.io/curriculum_parser/</div>
+<div class="text-lg opacity-70">1학년 8반 담임 교사</div>
 
-<div class="mt-2 text-sm opacity-40">[메모] 편성표 xlsx → LLM용 CSV·학생용 설명 웹</div>
+## neis_attendance
+
+<div class="mt-2 opacity-80">2022 개정 교육과정 안내 자료에 참여했으나, 가르쳐 본 적 없는 게 부끄러워서…</div>
+
+<div class="mt-4">"3월 출결 마감을 쉽게 하려고, 어플리케이션을 만들었다!<br>그러나 만들다 보니 5월…"</div>
+
+<!--
+월말 출결 처리 시, 어디에서 뭘 인쇄하고, 어디에 음영을 넣고, 심지어 "한 장으로 인쇄"를 눌러줘야 하는 게 너무 번거로웠음.
+차라리 이걸 자동화시키고, 일일 출결 입력도 포함한다면?
+-->
 
 ---
 layout: center
 ---
 
-# 2. neis_attendance
+# 주요 이력
+
+<div class="text-lg opacity-70"><span class="year">2023~현재</span> · 고등학교 학점 이수 지원 역량 강화 강사</div>
+
+## 성취평가 웹앱
+
+<img src="./assets/achieve_old.png" class="max-h-80 mt-6 rounded-lg shadow mx-auto" />
 
 <!--
-월말 출결 처리 시, 어디에서 뭘 인쇄하고, 어디에 음영을 넣고, 심지어 "한 장으로 인쇄"를 눌러줘야 하는 게 너무 번거로웠음.
-차라리 이걸 자동화시키고, 일일 출결 입력도 포함한다면?
+기존 앱: 성취평가 결과 분석 web-app 2.1.2 (kice-se.shinyapps.io/webapp_test) — 이건 기존 앱 화면.
+독립 발전판: bebegomzi-achievement-analysis.hf.space (평가 분석·환류 보고서·학기말 시뮬레이터)
 -->
 
 ---
