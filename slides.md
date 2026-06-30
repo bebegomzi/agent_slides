@@ -492,6 +492,20 @@ class: text-center
 layout: center
 ---
 
+# 해결방안 1
+
+<div class="text-base opacity-50">문제점 1 (과도한 상황 묘사) →</div>
+
+## Language 모델 외, Vision 모델의 등장
+
+<img src="./assets/vision_gemini.jpg" class="max-h-80 mx-auto mt-3 rounded-lg shadow" />
+
+<!-- 강연용: 이 Gemini 스크린샷은 세로로 길고 사이드바 포함 → 핵심 Q&A 재구성 추천. 초안 단계라 일단 그대로. -->
+
+---
+layout: center
+---
+
 # "사진 찍어서 보내주셔도 돼요"
 
 → 비전 모델 (LLM과는 별개)
