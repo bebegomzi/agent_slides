@@ -489,18 +489,41 @@ class: text-center
 <div class="mt-5 text-lg opacity-70">기억이 안 남는다 — 매번 처음부터</div>
 
 ---
-layout: center
+layout: two-cols
+class: my-auto
 ---
 
 # 해결방안 1
 
-<div class="text-base opacity-50">문제점 1 (과도한 상황 묘사) →</div>
+<div class="text-base opacity-50 mt-1">문제점 1 (과도한 묘사) →</div>
 
-## Language 모델 외, Vision 모델의 등장
+## Vision 모델의 등장
 
-<img src="./assets/vision_gemini.jpg" class="max-h-80 mx-auto mt-3 rounded-lg shadow" />
+<img src="./assets/dog.jpg" class="max-h-72 rounded-lg shadow mt-4" />
 
-<!-- 강연용: 이 Gemini 스크린샷은 세로로 길고 사이드바 포함 → 핵심 Q&A 재구성 추천. 초안 단계라 일단 그대로. -->
+::right::
+
+<div class="pl-6 mt-10 space-y-3">
+  <div class="ml-auto w-fit max-w-xs bg-gray-100 dark:bg-gray-700 rounded-2xl px-4 py-2 text-sm">사진 속 이 물체, 도대체 왜 이렇게 매일 귀여운 걸까?</div>
+  <div class="w-fit max-w-sm border rounded-2xl px-4 py-3 text-sm leading-relaxed">
+    🐾 치명적인 귀여움의 이유<br>
+    ① 100% 무방비 상태<br>
+    ② 솜사탕 같은 털<br>
+    ③ 앙증맞은 까만 젤리
+  </div>
+</div>
+
+---
+layout: center
+---
+
+# 해결방안 2
+
+<div class="text-base opacity-50">문제점 2 (똑같은 질문 반복) →</div>
+
+## 엑셀 기반 반복 작업 (외부 연수)
+
+<img src="./assets/training_excel.jpg" class="max-h-96 mx-auto mt-3 rounded-lg shadow" />
 
 ---
 layout: center
