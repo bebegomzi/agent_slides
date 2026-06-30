@@ -645,11 +645,12 @@ layout: section
 layout: center
 ---
 
-# "AI가 코딩 뚝딱!" 연수, 저도 가봤어요
+<img src="./assets/harness_break.png" class="max-h-56 mx-auto mt-2" />
 
-좋은 연수였습니다. 그런데 — 저희, 테트리스 만들 거 아니잖아요.
-
-<div class="mt-4 opacity-70">얼마나 '신기한지'가 아니라, '그래서 왜 필요한지'가 중요하죠</div>
+<div class="flex justify-center gap-12 mt-4 max-w-4xl mx-auto text-base">
+  <div class="flex-1 opacity-80">🙍 "미친 놈아, 세면대를 부수면 어떡해!"</div>
+  <div class="flex-1 opacity-80">🔧 "물이 나오지 않으면 새지 않는 법… 제거해 드렸습니다"</div>
+</div>
 
 ---
 layout: center
