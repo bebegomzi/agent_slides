@@ -32,6 +32,21 @@ layout: center
   <figure class="m-0"><img src="./assets/hist2021_now.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">현재</figcaption></figure>
 </div>
 
+---
+layout: center
+---
+
+# 주요 이력
+
+## <span class="year">2021</span> · 세종 중등교육과 파견
+
+이걸 왜 했냐면 — 3D 렌더링 후, **재정 투자 심사 완료 (72억)**
+
+<div class="flex justify-center gap-8 mt-8">
+  <figure class="m-0"><img src="./assets/hist2021_render.png" class="h-52 rounded-lg shadow" /></figure>
+  <figure class="m-0"><img src="./assets/hist2021_review.png" class="h-52 rounded-lg shadow" /></figure>
+</div>
+
 <!--
 원래 공학적인 부분에 관심 많음.
 -->
