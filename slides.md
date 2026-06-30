@@ -749,7 +749,7 @@ agy
 layout: section
 ---
 
-# 무엇을 할 수 있고, 무엇을 할 수 없는가?
+# 무엇을 할 수 있고,<br>무엇을 할 수 없는가?
 
 ---
 layout: center
