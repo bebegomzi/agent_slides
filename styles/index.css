@@ -15,9 +15,29 @@
 }
 
 /* ── 색감: 검정 일변도 탈피, 틸(teal) 포인트 ── */
-.slidev-layout h1 { color: #134e4a; }
+.slidev-layout { color: #1e293b; }
 .slidev-layout h2 { color: #0f766e; }
 .slidev-layout strong { color: #0d9488; font-weight: 500; }
-.slidev-layout { color: #1e293b; }
 .year { color: #0d9488; font-weight: 600; }
-.slidev-layout.slidev-page--section h1 { color: #0d9488; }
+
+/* ── 타이틀(h1) 위치 고정: 슬라이드 넘길 때 안 움직이게 상단 중앙 고정 ── */
+.slidev-layout h1 {
+  color: #134e4a;
+  position: absolute;
+  top: 2.6rem;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding: 0 3.5rem;
+  text-align: center;
+}
+/* 본문이 고정 타이틀과 겹치지 않도록 위쪽 공간 확보 */
+.slidev-layout { padding-top: 6.5rem; }
+
+/* 섹션 표지(②③④ 등)는 제목이 화면 중앙에 오는 게 자연스러우니 고정 제외 */
+.slidev-layout.slidev-page--section h1 {
+  position: static;
+  padding: 0;
+  color: #0d9488;
+}
+.slidev-layout.slidev-page--section { padding-top: 0; }
