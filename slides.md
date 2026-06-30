@@ -215,11 +215,28 @@ layout: center
 
 ## 성취평가 웹앱
 
-<img src="./assets/achieve_old.png" class="max-h-80 mt-6 rounded-lg shadow mx-auto" />
+<img src="./assets/achieve_old.png" class="max-h-72 mt-5 rounded-lg shadow mx-auto" />
+
+<div class="text-sm opacity-50 mt-2">기존 앱 · 성취평가 결과 분석 web-app 2.1.2</div>
+
+---
+layout: center
+---
+
+# 주요 이력
+
+<div class="text-lg opacity-70"><span class="year">2023~현재</span> · 고등학교 학점 이수 지원 역량 강화 강사</div>
+
+## 성취평가 웹앱
+
+```text
+bebegomzi-achievement-analysis.hf.space
+```
+
+<img src="./assets/achieve_new.png" class="max-h-64 mt-3 rounded-lg shadow mx-auto" />
 
 <!--
-기존 앱: 성취평가 결과 분석 web-app 2.1.2 (kice-se.shinyapps.io/webapp_test) — 이건 기존 앱 화면.
-독립 발전판: bebegomzi-achievement-analysis.hf.space (평가 분석·환류 보고서·학기말 시뮬레이터)
+평가 분석·환류 보고서·학기말 시뮬레이터.
 -->
 
 ---
@@ -279,11 +296,22 @@ layout: center
 
 # 1단계 · 프롬프트 엔지니어링
 
-<div class="mt-6 text-sm opacity-40">[이미지 예정] ChatGPT 국내 보도 뉴스</div>
+<img src="./assets/chatgpt_news.png" class="max-h-72 mt-4 rounded-lg shadow mx-auto" />
+
+<div class="mt-4 opacity-80">2022년까지만 해도 존재하지 않던 개념</div>
+
+---
+layout: center
+---
+
+# 2023년 ChatGPT 쇼크
+
+<img src="./assets/chatgpt_shock.png" class="max-h-72 mt-4 rounded-lg shadow mx-auto" />
+
+<div class="mt-4 opacity-80">2023년 7월 정도가 되면, 이미 사용하는 사람들이 생겨남</div>
 
 <!--
-5년 전, ChatGPT-3쯤 — 국내에 서비스도 안 되던 때부터 썼습니다.
-"인공지능으로 많은 걸 할 수 있다"고 하면 돌아온 말은 "게으르니까 별 걸 다 시키네."
+ChatGPT-3.5가 처음 나왔을 때 — "인공지능으로 많은 걸 할 수 있다"고 하면 돌아온 말은 "게으르니까 별 걸 다 시키네."
 하지만 저는 그때부터 단순 작업은 AI에 맡기고, 저는 '검토'를 하고 있었습니다.
 -->
 
@@ -291,74 +319,47 @@ layout: center
 layout: center
 ---
 
-# 1~2년 뒤, 'AI 연수' 붐
+# 그로부터 1~2년 뒤, 'AI 연수' 붐
 
 좋은 연수도 많았지만, 잘못된 통념도 같이 퍼졌습니다.
 
----
-layout: center
-class: text-left
----
-
-# 통념 ① "○○자 이상 써줘"
-
-정확히는 안 됩니다.
-
-NEIS를 떠올려 보세요. 우리는 바이트 계산기를 실시간으로 보면서 한 자씩 맞춰 넣죠. 그런데 LLM은 그렇게 안 씁니다. 다음에 올 말을 '의미'로 예측할 뿐, 자기가 몇 자 썼는지 세지 않습니다.
-
----
-layout: center
----
-
-# 통념 ② 컨텍스트 한계
-
-대화가 길어지면 환각은 구조적으로 생길 수밖에 없습니다.
-
----
-layout: center
-class: text-left
----
-
-# 통념 ③ "넌 30년 경력의 ○○이야"
-
-나도 처음엔 그렇게 썼습니다. 그런데 이건 틀린 게 아닙니다.
-
-이 한 문장이 '그 역할의 말투·관점·수행 수준'을 압축한 설정 지시문 노릇을 하거든요.
-
-문제는 왜 먹히는지 모른 채 주문처럼 외웠다는 것. 원리를 알면 더 잘 씁니다.
-
 <!--
-실연: ChatGPT 웹 '사용자 지침' 박스 보여주기
+참고 자료: [[인공지능 활용 생기부 작성 연수들]] — 전정선/육지해적/구두방장선생 + 차별화·AI 입학사정관 팩트체크. 공통점(대화창·시트 =AI 함수에 머묾)과 한계 → 하네스 전환 근거.
 -->
 
 ---
 layout: center
 ---
 
-# 공통점
+# 그로부터 1~2년 뒤, 'AI 연수' 붐
 
-전부 "대화창에 말 걸고, 돌아온 텍스트를 받아 쓰는" 방식이었습니다.
+## 통념 ① "○○자 이상 써줘"
 
-원리 없이 주문만 외운 셈이죠.
+<!--
+정확히는 안 됩니다. NEIS를 떠올려 보세요. 우리는 바이트 계산기를 실시간으로 보면서 한 자씩 맞춰 넣죠. 그런데 LLM은 그렇게 안 씁니다. 다음에 올 말을 '의미'로 예측할 뿐, 자기가 몇 자 썼는지 세지 않습니다.
+-->
 
 ---
 layout: center
-class: text-left
 ---
 
-# 그래서 오늘은
+# 그로부터 1~2년 뒤, 'AI 연수' 붐
 
-ⓐ 아주 간단한 원리를 알고
+## 통념 ② 컨텍스트 한계
 
-ⓑ 왜 기존 방식이 아쉬웠는지 보고
-
-ⓒ 대화창을 넘어 — AI가 내 PC에서 직접 일하는 단계로
+아무도 말해주지 않았던 것 — 대화가 길어지면 환각은 구조적으로 생길 수밖에 없습니다.
 
 ---
-layout: section
+layout: center
 ---
 
-# ③ 집안일이 생겼습니다
+# 그로부터 1~2년 뒤, 'AI 연수' 붐
+
+## 통념 ③ "넌 30년 경력의 ○○이야"
+
+<!--
+나도 처음엔 그렇게 썼습니다. 그런데 이건 틀린 게 아닙니다. 이 한 문장이 '그 역할의 말투·관점·수행 수준'을 압축한 설정 지시문 노릇을 하거든요. 왜 먹히는지 모른 채 주문처럼 외웠을 뿐. 원리를 알면 더 잘 씁니다.
+-->
 
 ---
 layout: center
@@ -368,17 +369,17 @@ layout: center
 
 전문가에게 전화를 겁니다. 자, 당신이라면 뭐라고 질문하겠습니까?
 
+<img src="./assets/call_woman.png" class="max-h-60 mt-4 rounded-lg mx-auto" />
+
+<div class="mt-3 text-2xl font-medium">"물 좀 막아라!"</div>
+
 ---
 layout: center
 ---
 
-# "여보세요, 물 새는 거 막아줘"
+<img src="./assets/plumber.png" class="max-h-80 mx-auto" />
 
-<div class="mt-6 text-sm opacity-40">[이미지 예정] 4컷 만화(일러스토야 그림체) — 배관공이 황당해하는 시퀀스</div>
-
-<!--
-(배관공) 누구신데요…? / 어디 사시는데요…? / 집 어디가 샌다구요…? / 그래서 뭘 할 줄 아세요…? / 아무것도 몰라요?
--->
+<div class="mt-4 opacity-70 text-lg">누구신데요…? · 어디 사시는데요…? · 집 어디가 샌다구요…? · 그래서 뭘 할 줄 아세요…? · 아무것도 몰라요?</div>
 
 ---
 layout: center
@@ -392,38 +393,36 @@ layout: center
 
 ---
 layout: center
----
-
-# 대화의 원리 = 협력의 원리 + 공손성의 원리
-
-우리가 학생에게 가르치는 바로 그것이, AI와 대화할 때도 똑같이 작동합니다.
-
----
-layout: center
 class: text-left
 ---
 
-# 말하는 사람이 줘야 할 것
+# 대화의 원리 — 대화에 필요한 것들
+
+대화의 원리 몰라도 대화는 됩니다. 알면 더 잘 됩니다.
+
+LLM의 원리(상대의 한계)를 알면, 더 잘 시켜먹을 수 있습니다.
 
 ① 맥락 — 상황·목적·결과물 형태·협업 방식
 
 ② 나에 대한 정보 — 나는 누구이고, 어느 수준으로 설명을 원하는지
 
-③ LLM의 원리 — 상대의 한계를 알아야 잘 부린다
-
-<div class="mt-4 opacity-60">결국 이 셋을 챙기는 게 '대화의 원리'를 지키는 것 = 좋은 프롬프트</div>
-
 ---
-layout: center
+layout: two-cols
+class: my-auto
 ---
 
-# "왜 매번 전화로 다시 설명하지?"
+# 또 물이 새요
 
-업체가 말합니다 — "메모해 둘게요."
+<img src="./assets/call_woman.png" class="max-h-64 rounded-lg" />
 
-<div class="mt-4 opacity-70">→ ChatGPT의 '사용자 지침'(메모리)</div>
+<div class="mt-3 text-xl font-medium">"전데요!"</div>
 
-<div class="mt-4 text-sm opacity-40">[이미지 예정] ChatGPT 웹 '사용자 지침' 박스</div>
+::right::
+
+<img src="./assets/plumber.png" class="max-h-64 rounded-lg ml-4" />
+
+<div class="mt-3 text-lg opacity-70 ml-4">"어떤 저인데요?"</div>
+<div class="text-lg opacity-70 ml-4">"왜 날 몰라주는 거야!"</div>
 
 ---
 layout: center
