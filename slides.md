@@ -444,10 +444,11 @@ class: text-center
 
 ## "학생 한 명마다, 똑같은 질문을 반복?"
 
-<div class="relative mx-auto mt-1" style="max-width:480px;">
-  <img src="./assets/problem2.png" class="w-full" />
-  <div class="absolute text-xs leading-tight text-center" style="top:7%; left:1.5%; width:31%;">고객님, 문제점 서술해 드렸습니다. 다음 198번째 문제점을 설명해 주세요.</div>
-  <div class="absolute text-xs leading-tight text-center" style="top:4%; right:2.5%; width:24%;">이짓거리를 모든 학생들에게 하라고?</div>
+<img src="./assets/problem2.png" class="max-h-56 mx-auto mt-2" />
+
+<div class="flex justify-center gap-12 mt-4 max-w-4xl mx-auto text-base">
+  <div class="flex-1 opacity-80">🔧 "고객님, 문제점 서술해 드렸습니다. 다음 198번째 문제점을 설명해 주세요."</div>
+  <div class="flex-1 opacity-80">🙍 "이짓거리를 모든 학생들에게 하라고?"</div>
 </div>
 
 ---
@@ -459,12 +460,11 @@ class: text-center
 
 ## "게다가, 200번이 다 제각각"
 
-<div class="relative mx-auto mt-1" style="max-width:520px;">
-  <img src="./assets/problem3.png" class="w-full" />
-  <div class="absolute text-xs leading-snug text-center" style="top:9%; left:3%; width:40%;">고객님의 천장을 보아했을 때 고딕 양식으로 된 첨탑을 추가하면 좋을 것 같으며 세종대왕의 맥북 프로 투척사건이…</div>
-</div>
+<img src="./assets/problem3.png" class="max-h-48 mx-auto mt-2" />
 
-<div class="mt-4 text-lg opacity-70">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
+<div class="mt-3 max-w-3xl mx-auto opacity-80">🔧 "고객님의 천장을 보아했을 때 고딕 양식으로 된 첨탑을 추가하면 좋을 것 같으며 세종대왕의 맥북 프로 투척사건이…"</div>
+
+<div class="mt-3 text-base opacity-60">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
 
 ---
 layout: center
@@ -614,10 +614,11 @@ layout: center
 class: text-center
 ---
 
-<div class="relative mx-auto mt-2" style="max-width:560px;">
-  <img src="./assets/agent_home.png" class="w-full" />
-  <div class="absolute text-xs leading-tight text-center" style="top:5%; left:1%; width:25%;">50cm의 얼룩이 선명하게 천장을 핥고 있었으며…</div>
-  <div class="absolute text-xs leading-tight text-center" style="top:5%; right:1%; width:27%;">진정하시고요. 제가 직접 보고 직접 고치면 돼요.</div>
+<img src="./assets/agent_home.png" class="max-h-56 mx-auto mt-2" />
+
+<div class="flex justify-center gap-12 mt-4 max-w-4xl mx-auto text-base">
+  <div class="flex-1 opacity-80">🙍 "50cm의 얼룩이 선명하게 천장을 핥고 있었으며…"</div>
+  <div class="flex-1 opacity-80">🔧 "진정하시고요. 제가 직접 보고 직접 고치면 돼요."</div>
 </div>
 
 ---
@@ -625,7 +626,7 @@ layout: center
 class: text-center
 ---
 
-# AI 코딩 에이전트
+# 에이전트 방식의 인공지능 활용
 
 <div class="relative mx-auto mt-6" style="width:700px; height:330px;">
   <img src="./assets/tool_antigravity.jpg" class="absolute rounded-lg shadow-xl" style="width:44%; left:2%; top:8%; transform:rotate(-4deg);" />
