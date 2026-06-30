@@ -586,6 +586,22 @@ class: text-left
 
 ---
 layout: center
+class: text-center
+---
+
+<div class="flex justify-center items-start gap-12 mt-2">
+  <div>
+    <img src="./assets/call_woman.png" class="max-h-56 rounded-lg mx-auto" />
+    <div class="mt-3 text-lg font-medium">"오늘은 맛있는 수육 보쌈 삶는 법을 배워야 돼."</div>
+  </div>
+  <div>
+    <img src="./assets/plumber.png" class="max-h-56 rounded-lg mx-auto" />
+    <div class="mt-3 text-lg opacity-70">"전 30년 경력 배관공이라면서요…"</div>
+  </div>
+</div>
+
+---
+layout: center
 ---
 
 # 그런데, 이 작업자가 집에 직접 온다면?
