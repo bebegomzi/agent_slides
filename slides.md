@@ -444,10 +444,10 @@ class: text-center
 
 ## "학생 한 명마다, 똑같은 질문을 반복?"
 
-<div class="relative max-w-2xl mx-auto mt-3">
+<div class="relative mx-auto mt-1" style="max-width:480px;">
   <img src="./assets/problem2.png" class="w-full" />
   <div class="absolute text-xs leading-tight text-center" style="top:7%; left:1.5%; width:31%;">고객님, 문제점 서술해 드렸습니다. 다음 198번째 문제점을 설명해 주세요.</div>
-  <div class="absolute text-sm leading-tight text-center" style="top:4%; right:2.5%; width:24%;">이짓거리를 모든 학생들에게 하라고?</div>
+  <div class="absolute text-xs leading-tight text-center" style="top:4%; right:2.5%; width:24%;">이짓거리를 모든 학생들에게 하라고?</div>
 </div>
 
 ---
@@ -459,9 +459,9 @@ class: text-center
 
 ## "게다가, 200번이 다 제각각"
 
-<div class="relative max-w-2xl mx-auto mt-3">
+<div class="relative mx-auto mt-1" style="max-width:520px;">
   <img src="./assets/problem3.png" class="w-full" />
-  <div class="absolute text-sm leading-snug text-center" style="top:9%; left:3%; width:40%;">고객님의 천장을 보아했을 때 고딕 양식으로 된 첨탑을 추가하면 좋을 것 같으며 세종대왕의 맥북 프로 투척사건이…</div>
+  <div class="absolute text-xs leading-snug text-center" style="top:9%; left:3%; width:40%;">고객님의 천장을 보아했을 때 고딕 양식으로 된 첨탑을 추가하면 좋을 것 같으며 세종대왕의 맥북 프로 투척사건이…</div>
 </div>
 
 <div class="mt-4 text-lg opacity-70">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
