@@ -427,9 +427,9 @@ class: text-center
 
 # 문제점 1
 
-## "학생 한 명마다 질문을 반복?"
+## "햇빛이 선명하게 나뭇잎을 핥고 있었다"
 
-<div class="mt-8 mx-auto border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center text-base opacity-40" style="width:78%; height:340px;">이미지 자리 (추가 예정)</div>
+<div class="mt-12 text-xl opacity-70">상황 묘사하다가 노벨 문학상 타겠다</div>
 
 ---
 layout: center
@@ -438,18 +438,9 @@ class: text-center
 
 # 문제점 2
 
-## "니가 배관공이라는 걸 매번 설명해줘야 하냐?"
+## "학생 한 명마다, 똑같은 질문을 반복?"
 
-<div class="flex justify-center items-start gap-12 mt-6">
-  <div>
-    <img src="./assets/call_woman.png" class="max-h-52 rounded-lg mx-auto" />
-    <div class="mt-2 text-lg font-medium">"전데요!"</div>
-  </div>
-  <div>
-    <img src="./assets/plumber.png" class="max-h-52 rounded-lg mx-auto" />
-    <div class="mt-2 text-base opacity-70">"어떤 저인데요?" · "왜 날 몰라주는 거야!"</div>
-  </div>
-</div>
+<div class="mt-8 mx-auto border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center text-base opacity-40" style="width:78%; height:340px;">이미지 자리 (추가 예정)</div>
 
 ---
 layout: center
@@ -458,9 +449,31 @@ class: text-center
 
 # 문제점 3
 
-## "햇빛이 선명하게 나뭇잎을 핥고 있었다"
+## "게다가, 200번이 다 제각각"
 
-<div class="mt-12 text-xl opacity-70">상황 묘사하다가 노벨 문학상 타겠다</div>
+<div class="flex justify-center items-start gap-12 mt-4">
+  <div>
+    <img src="./assets/call_woman.png" class="max-h-44 rounded-lg mx-auto" />
+    <div class="mt-2 text-lg font-medium">"전데요!"</div>
+  </div>
+  <div>
+    <img src="./assets/plumber.png" class="max-h-44 rounded-lg mx-auto" />
+    <div class="mt-2 text-base opacity-70">"어떤 저인데요?"</div>
+  </div>
+</div>
+
+<div class="mt-6 text-lg opacity-70">같은 세션이 아니라 — 매번 상황을 200번 다시 설명 + 길어지면 환각</div>
+
+---
+layout: center
+class: text-center
+---
+
+# 문제점 4
+
+## "다음 학기에 보니, 내가 누군지도 모름"
+
+<div class="mt-12 text-xl opacity-70">기억이 안 남는다 — 매번 처음부터</div>
 
 ---
 layout: center
