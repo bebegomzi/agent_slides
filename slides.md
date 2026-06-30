@@ -440,6 +440,17 @@ class: text-center
 
 ---
 layout: center
+class: text-center
+---
+
+# 문제점 1
+
+## "학생 한 명마다 질문을 반복?"
+
+<div class="mt-8 mx-auto border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center text-base opacity-40" style="width:78%; height:340px;">이미지 자리 (추가 예정)</div>
+
+---
+layout: center
 ---
 
 # "사진 찍어서 보내주셔도 돼요"
