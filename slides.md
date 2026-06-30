@@ -42,9 +42,9 @@ layout: center
 
 이걸 왜 했냐면 — 3D 렌더링 후, **재정 투자 심사 완료 (72억)**
 
-<div class="flex justify-center gap-8 mt-8">
-  <figure class="m-0"><img src="./assets/hist2021_render.png" class="h-52 rounded-lg shadow" /></figure>
-  <figure class="m-0"><img src="./assets/hist2021_review.png" class="h-52 rounded-lg shadow" /></figure>
+<div class="flex items-end justify-center gap-8 mt-8">
+  <figure class="m-0"><img src="./assets/hist2021_render.png" class="h-52 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">3D 렌더링</figcaption></figure>
+  <figure class="m-0"><img src="./assets/hist2021_review.png" class="h-48 rounded-lg shadow" /><figcaption class="text-sm opacity-60 mt-2">사업 규모·비용 심사</figcaption></figure>
 </div>
 
 <!--
