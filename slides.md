@@ -192,6 +192,10 @@ class: text-left
 
 ## neis_attendance
 
+```text
+github.com/bebegomzi/neis_attendance_release
+```
+
 <div class="mt-2 opacity-80">2022 개정 교육과정 안내 자료에 참여했으나, 가르쳐 본 적 없는 게 부끄러워서…</div>
 
 <div class="mt-4">"3월 출결 마감을 쉽게 하려고, 어플리케이션을 만들었다!<br>그러나 만들다 보니 5월…"</div>
